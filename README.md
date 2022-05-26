@@ -2,8 +2,8 @@
 
 For this particular project, I used ```TensorFlow==2.6.4```,  ```EfficientNetB0``` pre-trained model for 
 ```Transfer_learning``` freezing the ```base_model```.
-Regarding ```Fine-Tune``` a model, I used a separate code-block to explain the process. 
-model predicts label_name by proving image_path from ```test_set```.
+Regarding ```Fine-tune_model```, I used a separate code block to explain the process. 
+The model predicts label_name by providing image_path from ```test_set```.
 
 
 What is ```EfficientNet```?
